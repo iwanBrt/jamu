@@ -1,1 +1,15 @@
-node_modules/
+# Local environment
+.env
+*.log
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Optional local uploads/cache
+uploads/tmp/
